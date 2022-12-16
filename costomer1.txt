@@ -1,0 +1,6 @@
+customer_id,customer_Name,customer_address,customer_Mob
+106,Dravid,Neejersy,4233195
+107,Henry,Japan,546778
+108,Johnathon,Chennai,2334453
+109,Leo,Bangalore,433544
+110,Circle,Astralia,433544
